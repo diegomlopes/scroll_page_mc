@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scroll_page_mc.iml" filepath="$PROJECT_DIR$/scroll_page_mc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/scroll_page_mc_android.iml" filepath="$PROJECT_DIR$/android/scroll_page_mc_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/scroll_page_mc_example_android.iml" filepath="$PROJECT_DIR$/example/android/scroll_page_mc_example_android.iml" />
+    </modules>
+  </component>
+</project>
