@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:scroll_page_mc/scroll_page_mc.dart';
+// import 'package:scroll_page_mc/scroll_page_mc.dart';
 
 void main() {
   runApp(MyApp());
@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
     String platformVersion;
     // Platform messages may fail, so we use a try/catch PlatformException.
     try {
-      platformVersion = await ScrollPageMc.platformVersion;
+      // platformVersion = await ScrollPageMc.platformVersion;
     } on PlatformException {
       platformVersion = 'Failed to get platform version.';
     }
